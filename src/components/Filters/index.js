@@ -4,7 +4,7 @@ import './Filters.scss'
 export default function Filters() {
     return (
         <section>
-            filtros e mais filtros :<
+            filtros e mais filtros :)
         </section>
     )
 }

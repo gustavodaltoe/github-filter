@@ -5,7 +5,9 @@ import './ResultList.scss'
 
 export default function ResultList(props) {
     return (
-        //map de results :)
-        <Result result={} />
+        <section>
+            {/* futuro map de results :) */}
+            <Result />
+        </section>
     )
 }
